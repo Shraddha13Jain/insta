@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "https://insta-clone13.herokuapp.com",
+  "secure":"false",
   "engines": {
     "node": "15.5.0"
   },
