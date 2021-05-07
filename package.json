@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://insta-clone13.herokuapp.com",
+  "proxy": "https://last-try13.herokuapp.com/",
   "engines": {
     "node": "15.5.0"
   },
